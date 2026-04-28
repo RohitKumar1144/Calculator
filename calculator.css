@@ -1,0 +1,30 @@
+body{
+  background-color: black;
+  font-family: Arial;
+}
+button{
+  font-size: 26px;
+  height: 60px;
+  width: 60px;
+  border: none;
+  border-radius: 100px;
+  color: white;
+  background-color: rgb(51, 51, 51);
+  margin-right: 5px;
+  cursor: pointer;
+}
+.sign-button{
+  background-color: rgb(254, 160, 10);
+}
+.clear-button{
+  font-size: 17px;
+}
+.line{
+  margin-top: 16px;
+}
+.js-result{
+  color: white;
+  font-size: 45px;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
