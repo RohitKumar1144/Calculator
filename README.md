@@ -44,8 +44,7 @@ Calculator/
 │── script.js
 │── README.md
 │
-├── styles/
-│   └── calculator.css
+├── calculator.css
 │
 └── images/
     └── homepage.png
